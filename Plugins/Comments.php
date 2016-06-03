@@ -26,7 +26,7 @@
     THE SOFTWARE.
  */
 
-namespace CownnectFramework\Plugins;
+namespace Cownnect\Framework\Plugins;
 
 class Comments {
 
