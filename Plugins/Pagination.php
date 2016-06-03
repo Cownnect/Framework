@@ -1,5 +1,12 @@
 <?php
 
+/* * * * * * * * * *
+ *
+ * Pagination Plugin by Cownnect Developers
+ *
+ * GitHub : https://github.com/Cownnect/
+ * * * * * * * * * */
+
 $q = $db->query('SELECT id FROM ' . $table);
 
 //Récupération du nombre total de lignes
