@@ -60,7 +60,7 @@ class Pagination
     public function Paginate()
     {
         //Row count from table
-        $table_count = $this->pdo->query("SELECT COUNT(id) FROM " . $this->db_table);
+        $table_count = $this->pdo->query("SELECT COUNT(id) FROM " . $this->db_table)->fetchColumn();
 
         $npba = 4;
 
