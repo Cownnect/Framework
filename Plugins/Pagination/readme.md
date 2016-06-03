@@ -14,7 +14,7 @@ Usage
 -------
 Initialize Pagination with `PDO Database Connection` - `Rows per Page` - `Database Table`
 ```php
-$pagination = new \Cownnect\Framework\Plugins\Pagination($db,10,"citations");
+$pagination = new \Cownnect\Framework\Plugins\Pagination($pdo,10,"table");
 ```
 Run pagination
 ```php
