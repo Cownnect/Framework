@@ -12,3 +12,4 @@ Version 2 is a class that containing the most part of the code present in the ve
 
 Usage
 -------
+```$pagination = new \Cownnect\Framework\Plugins\Pagination($db,10,"citations");
