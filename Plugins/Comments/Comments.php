@@ -3,7 +3,7 @@
 /*
  * Comments Plugin by Cownnect Developpers
  *
- * Copyright (c) 2015 Cownnect
+ * Copyright (c) 2015 - 2017 Cownnect
 
     MIT license
 
